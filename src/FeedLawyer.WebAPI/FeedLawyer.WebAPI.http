@@ -1,0 +1,6 @@
+@FeedLawyer.WebAPI_HostAddress = http://localhost:5260
+
+GET {{FeedLawyer.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
