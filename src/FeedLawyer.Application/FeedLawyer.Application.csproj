@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FeedLawyer.Domain\FeedLawyer.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
